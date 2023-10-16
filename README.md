@@ -1,2 +1,4 @@
 # Buildroot
-Buildroot study
+本篇记录了Buildroot应用模版，也是学习Buildroot的记录
+## generic_package
+此文件夹是在package添加自己的APP的模版
